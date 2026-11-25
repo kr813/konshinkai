@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Btaps 虎ノ門ヒルズ店",
+    "price": "6000",
+    "smoking": "全面禁煙",
+    "availability": "未確認",
+    "smoking_area": "未確認"
+  },
+  {
+    "id": 2,
+    "name": "九州居酒屋かてて 虎ノ門店",
+    "price": "5000〜",
+    "smoking": "全面禁煙",
+    "availability": "未確認",
+    "smoking_area": "未確認"
+  },
+  {
+    "id": 3,
+    "name": "木村屋本店 虎ノ門店",
+    "price": "5000",
+    "smoking": "全面禁煙",
+    "availability": "未確認",
+    "smoking_area": "未確認"
+  },
+  {
+    "id": 4,
+    "name": "赤まる 虎ノ門店",
+    "price": "5500〜6000",
+    "smoking": "全面禁煙",
+    "availability": "未確認",
+    "smoking_area": "未確認"
+  },
+  {
+    "id": 5,
+    "name": "虎ノ門PAIRON",
+    "price": "5000〜5500",
+    "smoking": "全面禁煙",
+    "availability": "未確認",
+    "smoking_area": "未確認"
+  },
+  {
+    "id": 6,
+    "name": "Brasserie Beer Blvd.",
+    "price": "6500",
+    "smoking": "全面禁煙",
+    "availability": "未確認",
+    "smoking_area": "未確認"
+  },
+  {
+    "id": 7,
+    "name": "ちからホール 新橋店",
+    "price": "6000〜7000",
+    "smoking": "全面禁煙",
+    "availability": "未確認",
+    "smoking_area": "未確認"
+  },
+  {
+    "id": 8,
+    "name": "COMON 新橋虎ノ門",
+    "price": "5500",
+    "smoking": "要確認",
+    "availability": "未確認",
+    "smoking_area": "未確認"
+  },
+  {
+    "id": 9,
+    "name": "伊蔵 虎ノ門",
+    "price": "5000〜6000",
+    "smoking": "要確認",
+    "availability": "未確認",
+    "smoking_area": "未確認"
+  },
+  {
+    "id": 10,
+    "name": "寅 Soi74 新橋",
+    "price": "6000〜6500",
+    "smoking": "要確認",
+    "availability": "未確認",
+    "smoking_area": "未確認"
+  },
+  {
+    "id": 11,
+    "name": "KG Cafe&Wine Restaurant",
+    "price": "5000〜",
+    "smoking": "全面禁煙",
+    "availability": "未確認",
+    "smoking_area": "未確認"
+  },
+  {
+    "id": 12,
+    "name": "ミライザカ 新橋銀座口ガード下店",
+    "price": "5000〜6000",
+    "smoking": "全面禁煙",
+    "availability": "未確認",
+    "smoking_area": "未確認"
+  },
+  {
+    "id": 13,
+    "name": "コンロ家 新橋・虎ノ門店",
+    "price": "要確認",
+    "smoking": "禁煙席あり",
+    "availability": "未確認",
+    "smoking_area": "未確認"
+  },
+  {
+    "id": 14,
+    "name": "もみじ堂 新橋店",
+    "price": "要確認",
+    "smoking": "一部禁煙",
+    "availability": "未確認",
+    "smoking_area": "未確認"
+  },
+  {
+    "id": 15,
+    "name": "炭焼きびすとろ 肉たらし 虎ノ門",
+    "price": "要確認",
+    "smoking": "要確認",
+    "availability": "未確認",
+    "smoking_area": "未確認"
+  }
+]
